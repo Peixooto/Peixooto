@@ -1,7 +1,5 @@
 ## Olá! Me chamo Lucas
 - Hoje trabalho como desenvolvedor
-- Pronouns: he/him   
-
   <div>
     <img width="100px" src="https://github-readme-stats.vercel.app/api?username=Peixooto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" align="center" alt="GitHub Readme Stats" />
      <img width="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peixooto&layout=compact&langs_count=16&theme=dracula" align="center" alt="GitHub Readme Stats" />
