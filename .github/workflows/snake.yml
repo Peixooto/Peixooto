@@ -48,5 +48,6 @@ jobs:
           target_branch: output
           build_dir: dist
           commit_message: Update snake animations
-        env:
-          PERSONAL_ACCESS_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+        # env:
+        #   GH_PAT: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
